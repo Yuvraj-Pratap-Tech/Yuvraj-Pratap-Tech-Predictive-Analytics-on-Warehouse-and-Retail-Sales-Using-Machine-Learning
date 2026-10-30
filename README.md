@@ -1,0 +1,2 @@
+# Yuvraj-Pratap-Tech-Predictive-Analytics-on-Warehouse-and-Retail-Sales-Using-Machine-Learning
+i am asking for mine Predictive Analytics of Warehouse and Retail Sales using Python and Machine Learning. Includes data preprocessing, EDA, visualization, and five algorithms: Polynomial Regression, Naive Bayes, Simple Linear Regression, Support Vector Regression (SVR), and Multiple Linear Regression to analyse and predict retail sales.
